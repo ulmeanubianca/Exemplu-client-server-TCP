@@ -1,0 +1,32 @@
+[
+  {
+    "cod_aventura": 101,
+    "denumire": "CATARARE",
+    "tarif": 25.5,
+    "locuri_disponibile": 15
+  },
+  {
+    "cod_aventura": 102,
+    "denumire": "RAFTING",
+    "tarif": 40.0,
+    "locuri_disponibile": 10
+  },
+  {
+    "cod_aventura": 103,
+    "denumire": "TIROLIANA",
+    "tarif": 18.5,
+    "locuri_disponibile": 20
+  },
+  {
+    "cod_aventura": 104,
+    "denumire": "ESCALADA",
+    "tarif": 35.0,
+    "locuri_disponibile": 8
+  },
+  {
+    "cod_aventura": 105,
+    "denumire": "KAYAK",
+    "tarif": 30.0,
+    "locuri_disponibile": 12
+  }
+]
